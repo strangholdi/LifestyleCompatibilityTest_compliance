@@ -1,0 +1,2 @@
+# LifestyleCompatibilityTest_compliance
+Compliance and privacy policy
